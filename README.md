@@ -28,7 +28,7 @@ To run this application, you need a C++ compiler such as g++.
 1. *Clone the repository:*
 
    bash
-   git clone https://github.com/Prince5598/Continuous_Evaluation.git
+   git clone https://github.com/Prince5598/Continuous-Evaluation-System.git
 2. **Navigate to the project directory:**
       bash
    cd A-System-For-Continuous-Evalution
